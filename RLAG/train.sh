@@ -1,0 +1,39 @@
+set -e
+LOG_FILE_PATH=./LOG/USMLE/Llama-3.1-8B-Instruct/log.log
+FOUNDATION_MODEL=Llama-3.1-8B-Instruct
+STATE_DICT_SAVE_PATH=./state_dict_Llama-3.1-8B-Instruct_USMLE
+TOTAL_EPOCHS=5
+PER_ITERATION_EPOCHS=2
+LOSS=RLAG
+GRADIENT_ACCUMULATION_STEPS=256
+PER_DEVICE_BATCH_SIZE=1
+LR=1e-5
+VAL_BATCH_SIZE=0.2
+TRAIN_SIZE_RATIO=0.8
+MAX_GRAD_NORM=1.0
+ITERATION_NUM=9
+ARCHIVE=null
+BLOCK_NAME=LlamaDecoderLayer
+DATA_FILE_PATH=./USMLE/USMLE_train.json
+GAMMA=0.8
+
+CUDA_VISIBLE_DEVICES=0,1,2,3 python simple_iter.py \
+    logfile_path=$LOG_FILE_PATH \
+    state_dict_save_path=$STATE_DICT_SAVE_PATH \
+    loss=$LOSS \
+    train_size_ratio=$TRAIN_SIZE_RATIO \
+    val_batch_size=$VAL_BATCH_SIZE \
+    lr=$LR \
+    gamma=$GAMMA \
+    per_iteration_epochs=$PER_ITERATION_EPOCHS \
+    gradient_accumulation_steps=$GRADIENT_ACCUMULATION_STEPS \
+    per_device_batch_size=$PER_DEVICE_BATCH_SIZE \
+    max_grad_norm=$MAX_GRAD_NORM \
+    iteration_num=$ITERATION_NUM \
+    total_epochs=$TOTAL_EPOCHS \
+    archive=$ARCHIVE \
+    block_name=$BLOCK_NAME \
+    foundation_model_name_or_path=$FOUNDATION_MODEL \
+    data_file_path=$DATA_FILE_PATH \
+    val_data_path=./USMLE/USMLE_val.json \
+

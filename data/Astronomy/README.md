@@ -1,0 +1,1 @@
+We collected astronomy-related content from Wikipedia and used LLM to generate a training set. To prevent the training set from contaminating the test set, we also performed a 3-gram question cleanup to ensure that the training set did not contain questions significantly related to the test set. If you use our data, please cite our paper.

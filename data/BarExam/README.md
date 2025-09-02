@@ -1,0 +1,2 @@
+Raw data: [BarExam](https://huggingface.co/datasets/reglab/barexam_qa)
+We processed the original BarExam books and obtained the corresponding txt files. If you use our processed data, please cite our article.

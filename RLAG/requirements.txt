@@ -1,0 +1,306 @@
+absl-py @ file:///data2/niechaojun/myscripts/rago/absl_py-2.1.0-py3-none-any.whl#sha256=526a04eadab8b4ee719ce68f204172ead1027549089702d99b9059f129ff1308
+accelerate==1.0.1
+aiofiles==23.2.1
+aiohappyeyeballs==2.4.3
+aiohttp==3.10.10
+aiosignal==1.3.1
+annotated-types==0.7.0
+antlr4-python3-runtime @ file:///workspace/TDPO/pack/antlr4-python3-runtime-4.9.3
+anyio==4.5.2
+appdirs @ file:///workspace/TDPO/pack/appdirs-1.4.4-py2.py3-none-any.whl#sha256=a841dacd6b99318a741b166adb07e19ee71a274450e68237b4650ca1055ab128
+asgiref==3.8.1
+asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
+async-timeout==4.0.3
+attrs==24.2.0
+auto_gptq==0.7.1
+av==12.3.0
+backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+backoff==2.2.1
+bcrypt @ file:///workspace/TDPO/pack/bcrypt-4.2.1-cp37-abi3-manylinux_2_28_x86_64.whl#sha256=76d3e352b32f4eeb34703370e370997065d28a561e4a18afe4fef07249cb4396
+beautifulsoup4 @ file:///workspace/TDPO/beautifulsoup4-4.12.2-py3-none-any.whl#sha256=bd2520ca0d9d7d12694a53d44ac482d181b4ec1888909b035a3dbf40d0f57d4a
+bitsandbytes==0.44.1
+blis==0.7.11
+Brotli @ file:///croot/brotli-split_1714483155106/work
+build==1.2.2.post1
+cachetools==5.5.0
+catalogue==2.0.10
+certifi @ file:///workspace/TDPO/pack/certifi-2024.12.14-py3-none-any.whl#sha256=1275f7a45be9464efc1173084eaa30f866fe2e47d389406136d332ed4967ec56
+cffi @ file:///workspace/TDPO/pack/cffi-1.17.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0e2b1fac190ae3ebfe37b979cc1ce69c81f4e4fe5746bb401dca63a9062cdaf1
+charset-normalizer @ file:///workspace/TDPO/pack/charset_normalizer-3.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6fd30dc99682dc2c603c2b315bded2799019cea829f8bf57dc6b61efde6611c8
+chroma-hnswlib==0.7.6
+chromadb==0.5.17
+click @ file:///workspace/TDPO/pack/click-8.1.8-py3-none-any.whl#sha256=63c132bbbed01578a06712a2d1f497bb62d9c1c0d329b7903a866228027263b2
+cloudpathlib==0.16.0
+cloudpickle==3.1.0
+cmake==3.30.5
+colorama==0.4.6
+coloredlogs==15.0.1
+comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1710320294760/work
+compressed-tensors==0.6.0
+confection==0.1.5
+contourpy==1.1.1
+cryptography @ file:///workspace/TDPO/pack/cryptography-44.0.0-cp37-abi3-manylinux_2_28_x86_64.whl#sha256=3c672a53c0fb4725a29c303be906d3c1fa99c32f58abe008a82705f9ee96f40b
+cycler==0.12.1
+cymem==2.0.8
+Cython==3.0.11
+datasets @ file:///workspace/LLaMA-Factory-main/src/datasets-3.0.2-py3-none-any.whl#sha256=220bfbea0be9bf81d121bd2ac76fe4ef3f7defe0e8586ce1e7f66dcaaf69f88d
+debugpy @ file:///croot/debugpy_1690905042057/work
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+deepspeed==0.15.3
+Deprecated==1.2.14
+dill==0.3.8
+diskcache==5.6.3
+distro==1.9.0
+docker-pycreds @ file:///workspace/TDPO/pack/docker_pycreds-0.4.0-py2.py3-none-any.whl#sha256=7266112468627868005106ec19cd0d722702d2b7d5912a28e19b826c3d37af49
+docstring_parser==0.16
+durationpy==0.9
+einops==0.8.0
+elastic-transport==8.15.1
+elasticsearch==8.15.1
+elasticsearch7==7.17.12
+elasticsearch8==8.16.0
+en-core-web-sm @ file:///home/elasticsearch_user/ncjrag/1213/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
+eval_type_backport==0.2.0
+exceptiongroup==1.2.2
+executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1725214404607/work
+faiss-cpu==1.8.0.post1
+faiss-gpu==1.7.2
+fastapi==0.112.4
+ffmpy==0.4.0
+filelock @ file:///croot/filelock_1700591183607/work
+fire==0.7.0
+flash-attn==2.7.0.post2
+flatbuffers==24.3.25
+fonttools==4.54.1
+frozenlist==1.5.0
+fsspec==2024.9.0
+gekko==1.2.1
+gguf==0.10.0
+gitdb @ file:///workspace/TDPO/pack/gitdb-4.0.11-py3-none-any.whl#sha256=81a3407ddd2ee8df444cbacea00e2d038e40150acfa3001696fe0dcf1d3adfa4
+GitPython @ file:///workspace/TDPO/pack/GitPython-3.1.43-py3-none-any.whl#sha256=eec7ec56b92aad751f9912a73404bc02ba212a23adb2c7098ee668417051a1ff
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455532332/work
+google-auth==2.35.0
+google-auth-oauthlib==1.0.0
+googleapis-common-protos==1.65.0
+gradio==4.44.1
+gradio_client==1.3.0
+graphlib_backport==1.1.0
+greenlet==3.1.1
+grpcio==1.67.1
+h11==0.14.0
+hjson==3.1.0
+httpcore==1.0.6
+httptools==0.6.4
+httpx==0.27.2
+huggingface-hub==0.26.2
+humanfriendly==10.0
+hydra-core @ file:///workspace/TDPO/pack/hydra_core-1.3.2-py3-none-any.whl#sha256=fa0238a9e31df3373b35b0bfb672c34cc92718d21f81311d8996a16de1141d8b
+idna @ file:///workspace/TDPO/pack/idna-3.10-py3-none-any.whl#sha256=946d195a0d259cbba61165e88e65941f16e9b36ea6ddb97f00452bae8b1287d3
+importlib_metadata==8.4.0
+importlib_resources==6.4.5
+interegular==0.3.3
+ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1719845459717/work
+ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1683289033986/work
+jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1696326070614/work
+jieba==0.42.1
+Jinja2 @ file:///croot/jinja2_1716993405101/work
+jiter==0.7.0
+joblib==1.4.2
+jsonpatch==1.33
+jsonpointer==3.0.0
+jsonschema==4.23.0
+jsonschema-specifications==2023.12.1
+jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1726610684920/work
+jupyter_core @ file:///home/conda/feedstock_root/build_artifacts/jupyter_core_1727163409502/work
+kiwisolver==1.4.7
+kubernetes==31.0.0
+langchain==0.2.16
+langchain-core==0.2.43
+langchain-text-splitters==0.2.4
+langcodes==3.4.1
+langsmith==0.1.139
+language_data==1.2.0
+lark==1.2.2
+Levenshtein==0.25.1
+llamafactory @ file:///root/LLaMA-Factory
+llvmlite==0.41.1
+lm-format-enforcer==0.10.6
+lxml==5.3.0
+marisa-trie==1.2.1
+Markdown @ file:///data2/niechaojun/myscripts/rago/Markdown-3.7-py3-none-any.whl#sha256=7eb6df5690b81a1d7942992c97fad2938e956e79df20cbc6186e9c3a77b1c803
+markdown-it-py==3.0.0
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+matplotlib==3.7.5
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1713250518406/work
+mdurl==0.1.2
+mistral_common==1.4.4
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mmh3==5.0.1
+monotonic==1.6
+mpi4py==4.0.1
+mpich==0.0.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+msgpack==1.1.0
+msgspec==0.18.6
+multidict==6.1.0
+multiprocess==0.70.16
+murmurhash==1.0.10
+nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1705850609492/work
+networkx @ file:///croot/networkx_1690561992265/work
+ninja==1.11.1.1
+nltk==3.9.1
+numba==0.58.1
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+nvidia-ml-py==12.560.30
+oauthlib==3.2.2
+omegaconf @ file:///workspace/TDPO/pack/omegaconf-2.3.0-py3-none-any.whl#sha256=7b4df175cdb08ba400f45cae3bdcae7ba8365db4d165fc65fd04b050ab63b46b
+onnxruntime==1.19.2
+openai==1.53.0
+opencv-python-headless==4.10.0.84
+opentelemetry-api==1.27.0
+opentelemetry-exporter-otlp-proto-common==1.27.0
+opentelemetry-exporter-otlp-proto-grpc==1.27.0
+opentelemetry-instrumentation==0.48b0
+opentelemetry-instrumentation-asgi==0.48b0
+opentelemetry-instrumentation-fastapi==0.48b0
+opentelemetry-proto==1.27.0
+opentelemetry-sdk==1.27.0
+opentelemetry-semantic-conventions==0.48b0
+opentelemetry-util-http==0.48b0
+optimum==1.23.3
+orjson==3.10.11
+outlines==0.0.46
+overrides==7.7.0
+packaging @ file:///workspace/TDPO/pack/packaging-24.2-py3-none-any.whl#sha256=09abb1bccd265c01f4a3aa3f7a7db064b36514d2cba19a2f694fe6150451a759
+pandas==2.0.3
+paramiko @ file:///workspace/TDPO/pack/paramiko-3.5.0-py3-none-any.whl#sha256=1fedf06b085359051cd7d0d270cebe19e755a8a921cc2ddbfa647fb0cd7d68f9
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1712320355065/work
+partial-json-parser==0.2.1.1.post4
+pathlib_abc==0.1.1
+pathtools @ file:///workspace/TDPO/pack/pathtools-0.1.2
+pathy==0.11.0
+peft==0.12.0
+pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1706113125309/work
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+pillow @ file:///croot/pillow_1721059439630/work
+pkgutil_resolve_name==1.3.10
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1726613481435/work
+portalocker==2.10.1
+posthog==3.7.0
+preshed==3.0.9
+prometheus-fastapi-instrumentator==7.0.0
+prometheus_client==0.21.0
+prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1727341649933/work
+propcache==0.2.0
+protobuf==4.25.5
+psutil==6.1.0
+ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1721585709575/work
+py-cpuinfo==9.0.0
+pyairports==2.1.1
+pyarrow==17.0.0
+pyasn1==0.6.1
+pyasn1_modules==0.4.1
+pycountry==24.6.1
+pycparser @ file:///workspace/TDPO/pack/pycparser-2.22-py3-none-any.whl#sha256=c3702b6d3dd8c7abc1afa565d7e63d53a1d0bd86cdc24edd75470f4de499cfcc
+pydantic==2.9.2
+pydantic_core==2.23.4
+pydub==0.25.1
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1714846767233/work
+PyNaCl @ file:///workspace/TDPO/pack/PyNaCl-1.5.0-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl#sha256=0c84947a22519e013607c9be43706dd42513f9e6ae5d39d3613ca1e142fba44d
+pyparsing==3.1.4
+PyPika==0.48.9
+pyproject_hooks==1.2.0
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+python-dotenv==1.0.1
+python-multipart==0.0.17
+pytz==2024.2
+PyYAML @ file:///croot/pyyaml_1728657952215/work
+pyzmq @ file:///croot/pyzmq_1705605076900/work
+rapidfuzz==3.9.7
+ray==2.10.0
+referencing==0.35.1
+regex==2024.9.11
+requests @ file:///croot/requests_1721410876868/work
+requests-oauthlib==2.0.0
+requests-toolbelt==1.0.0
+rich==13.9.4
+rouge==1.0.1
+rouge-chinese==1.0.3
+rpds-py==0.20.1
+rsa==4.9
+ruff==0.7.2
+sacrebleu==2.4.3
+safetensors==0.4.5
+scikit-learn==1.3.2
+scipy==1.10.1
+semantic-version==2.10.0
+sentence-splitter @ file:///home/elasticsearch_user/ncjrag/1213/sentence_splitter-1.4-py2.py3-none-any.whl#sha256=5645a3ad9c348e4287f4bc73bd573d92dccd4139042fddd51fff0591f1376763
+sentence-transformers==2.7.0
+sentencepiece==0.2.0
+sentry-sdk @ file:///workspace/TDPO/pack/sentry_sdk-2.19.2-py2.py3-none-any.whl#sha256=ebdc08228b4d131128e568d696c210d846e5b9d70aa0327dec6b1272d9d40b84
+setproctitle @ file:///workspace/TDPO/pack/setproctitle-1.3.4-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=fc9d79b1bf833af63b7c720a6604eb16453ac1ad4e718eb8b59d1f97d986b98c
+shellingham==1.5.4
+shtab==1.7.1
+six @ file:///workspace/TDPO/pack/six-1.17.0-py2.py3-none-any.whl#sha256=4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274
+smart-open==6.4.0
+smmap @ file:///workspace/TDPO/pack/smmap-5.0.1-py3-none-any.whl#sha256=e6d8668fa5f93e706934a62d7b4db19c8d9eb8cf2adbb75ef1b675aa332b69da
+sniffio==1.3.1
+soupsieve @ file:///workspace/TDPO/soupsieve-2.6-py3-none-any.whl#sha256=e72c4ff06e4fb6e4b5a9f0f55fe6e81514581fca1515028625d0f299c602ccc9
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+SQLAlchemy==2.0.36
+srsly==2.4.8
+sse-starlette==2.1.3
+stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
+starlette==0.38.6
+sympy @ file:///croot/sympy_1724938189289/work
+tabulate==0.9.0
+tenacity==8.5.0
+tensor-parallel @ file:///workspace/TDPO/pack/tensor_parallel-1.2.4-py3-none-any.whl#sha256=1cfe6332e8c216509f4308e693b11d67e29239bdeb9c0a6a749b3197a0a124f6
+tensorboard @ file:///data2/niechaojun/myscripts/rago/pack/tensorboard-2.14.0-py3-none-any.whl#sha256=3667f9745d99280836ad673022362c840f60ed8fefd5a3e30bf071f5a8fd0017
+tensorboard-data-server==0.7.2
+termcolor==2.4.0
+thinc==8.2.5
+threadpoolctl==3.5.0
+tiktoken==0.7.0
+tokenizers==0.20.1
+tomli==2.0.2
+tomlkit==0.12.0
+torch==2.4.0
+torchaudio==2.4.0
+torchvision==0.19.0
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1717722826518/work
+tqdm==4.66.6
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1713535121073/work
+transformers==4.46.1
+triton==3.0.0
+trl==0.9.6
+typer @ file:///data2/niechaojun/PACK/typer-0.9.0-py3-none-any.whl#sha256=5d96d986a21493606a358cae4461bd8cdf83cbf33a5aa950ae629ca3b51467ee
+typer-cli==0.12.0
+typer-slim==0.12.0
+typing_extensions @ file:///workspace/TDPO/pack/typing_extensions-4.12.2-py3-none-any.whl#sha256=04e5ca0351e0f3f85c6853954072df659d0d13fac324d0072316b67d7794700d
+tyro==0.8.14
+tzdata==2024.2
+urllib3==2.2.3
+uvicorn==0.32.0
+uvloop==0.21.0
+vllm==0.6.3.post1
+vllm-flash-attn==2.6.1
+wandb @ file:///workspace/TDPO/pack/wandb-0.15.3-py3-none-any.whl#sha256=f9e0b8cd53a3564dc8e54967c251860bd023f0ee2a450c4407fe97f771dcfa9e
+wasabi==0.10.1
+watchfiles==0.24.0
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
+weasel==0.4.1
+websocket-client==1.8.0
+websockets==12.0
+Werkzeug==3.0.6
+wordninja @ file:///home/elasticsearch_user/ncjrag/222/wordninja-2.0.0
+wrapt==1.16.0
+xformers==0.0.27.post2
+xxhash==3.5.0
+yarl==1.15.2
+zipp==3.20.2

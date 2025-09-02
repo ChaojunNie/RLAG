@@ -1,0 +1,1 @@
+The corresponding txt text file contains the content of the news after the model used in this study occurred, which was collected from Wikipedia. If you use our processed data, please cite our article.

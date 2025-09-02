@@ -1,0 +1,44 @@
+# --------- Base Setup ---------
+logfile_path: ./NewLOG/Qwen2-7B-Instruct/SFT/log.log
+data_file_path: USMLE-train-all-ctx.json
+foundation_model_name_or_path: Qwen2-7B-Instruct
+state_dict_save_path: ./state_dict
+val_data_path: ./Astronomy/Astronomy_val.json
+loss: SFT
+sequence_max_len: null
+seed: 62512
+gamma: 8
+train_size_ratio: 0.8
+eval_freq: 10000
+val_batch_size: 8
+
+# --------- RLAG Training ---------
+total_epochs: 1
+iteration_num: 1
+per_iteration_epochs: 15
+gradient_accumulation_steps: 8
+per_device_batch_size: 4
+optimizer: AdamW
+lr: 5e-6
+warmup_ratio: 0.1
+max_grad_norm: 1.0
+data_split_path: ./data_split
+
+# --------- FSDP Setup ---------
+block_name: Qwen2DecoderLayer
+policy_dtype: bfloat16
+fsdp_policy_mp: null
+archive: null
+mp_port: null
+
+# --------- Ablation Experiments -------
+Ablation: false
+NoRejected: false
+NoInformation: false
+NoGamma: false
+PureInformation: false
+PureChosen: false
+PureRejected: false
+FixBeta_AD: false
+chosen_is_standard_answer: false
+NoClip: false
