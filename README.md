@@ -6,5 +6,3 @@ Large language models (LLMs) often exhibit limited performance on domain-specifi
 
 The *Knowledge Base Creation* folder contains the relevant code files for using the retriever to build the knowledge base
 The *RLAG* folder contains the model training and evaluation code files involved in the paper.
-
-IF YOU THINK THIS REPO IS HELPFUL, PLEASE GIVE A STAR!
