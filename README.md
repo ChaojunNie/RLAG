@@ -12,7 +12,7 @@ If you find this work helpful, please cite it as follows:
 ```
 @article{nie2025embedding,
   title={Embedding Domain Knowledge for Large Language Models via Reinforcement Learning from Augmented Generation},
-  author={Nie, Chaojun and Zhou, Jun and Wang, Guanxiang and Wud, Shisong and Wang, Zichen},
+  author={Nie, Chaojun and Zhou, Jun and Wang, Guanxiang and Wu, Shisong and Wang, Zichen},
   journal={arXiv preprint arXiv:2509.20162},
   year={2025}
 }
